@@ -1,4 +1,4 @@
 lets test git now.
 ****This line has been added(and modified)****
-***wait a second !!! another line added.***
+***wait a second !!! another line added.(and changed from local machine.)***
 *** what the hell, how many lines do you want do add ? ***
